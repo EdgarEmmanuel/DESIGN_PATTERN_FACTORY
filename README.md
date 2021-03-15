@@ -5,5 +5,6 @@
 OF AN OBJECT BEHIND A FACTORY WHICH IS GONNA KNOW HOW TO CREATE
 THE REQUESTED OBJECT 
 ___
-> UML DIAGRAM
+> UML DIAGRAM BELOW
+___
 ![test](https://refactoring.guru/images/patterns/diagrams/factory-method/structure.png)
